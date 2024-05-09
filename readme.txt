@@ -10,5 +10,4 @@ SUPPORT
 Contact me (support@qdpm.net) if you have any questions, suggestions or feedback about qdPM. 
 My name is Sergey. I always reply to emails within 24-48 hours.
 
-hhhhh
-
+sdsdsdsd
